@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Emre&fontSize=55&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Emre&fontSize=55&fontColor=fff&animation=twinkling&width=1000" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+3%2B+Years+Experience;Penetration+Tester+%7C+Offensive+Security;Building+EcoTrace" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+3%2B+Years+Experience;Penetration+Tester+%7C+Offensive+Security;Building+EcoTrace" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/emre-%C3%B6zkal/">
@@ -20,10 +20,10 @@
 ### About Me
 Welcome to my profile. I'm a backend developer with over 3 years of experience building efficient and scalable systems, primarily in Python. Over the past year, I've been diving deep into offensive security and penetration testing. I believe that understanding exactly how systems break is the best way to build stronger, more resilient architectures.
 
-- Currently developing EcoTrace, a Python library designed to measure the carbon footprint of your code.
-- Studying Penetration Testing & Offensive Security, covering everything from web vulnerabilities to network exploitation.
-- I really enjoy working at the intersection of clean backend architecture and security-aware design.
-- Feel free to reach out if you want to chat about Python, backend systems, or getting started with pentesting. Always happy to connect.
+* Currently developing EcoTrace, a Python library designed to measure the carbon footprint of your code.
+* Studying Penetration Testing & Offensive Security, covering everything from web vulnerabilities to network exploitation.
+* I really enjoy working at the intersection of clean backend architecture and security-aware design.
+* Feel free to reach out if you want to chat about Python, backend systems, or getting started with pentesting. Always happy to connect.
 
 ### Tech Stack
 
